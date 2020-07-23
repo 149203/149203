@@ -1,16 +1,14 @@
-### Hi there 👋
+# Mike Zetlow
 
-<!--
-**149203/149203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience
 
-Here are some ideas to get you started:
+### PunchCode
+Creating curriculum and web applications for teaching full-stack JavaScript development from the gournd up. Instructing and leading students in their growth in HTML, CSS, SCSS, JavaScript, jQuery, Git, Terminal, Bootstrap, object-oriented programming, functional programming, data structures, algorithms, Regex, Node.js, NPM libraries, design, UX, React, Redux, MySQL, Amazon RDS, Express, REST, AJAX, deployment, and job placement skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Better Computers LLC
+Developing software solutions for consumer and enterprise companies. Specializing in user experience and lean / agile methodologies to deliver user-friendly features on time. Engineering scalable, robust solutions with modern web tech stacks.
+
+## Education
+
+### Michigan State University
+Bachelor of Arts (B.A.) Telecommunications Engineering
