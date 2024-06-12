@@ -38,7 +38,7 @@ Founded Las Vegas Developers—a now 4,000-member Meetup group—to help develop
 ### UX Architect
 _Feb. 2015 - June 2018_
 
-Led the creation of a formal design system with a team of 1 designer, 3 developers, and 1 QAE. This made us more attractive for customers and buyers. Our efforts were responsible for our eventual acquisition by Bow River Capital.
+Led the creation of a formal design system with a team of 1 designer, 3 developers, and 1 QAE. This made us more attractive for customers and buyers. Our efforts were credited with assisting our acquisition by Bow River Capital.
 
 Architected SaaS solutions for insurance companies and brokers in a unique 2-sided marketplace: Policy Data Sheet (an Excel-like web app), Producer Portal (a web portal for brokers), and Form Builder (a responsive web app that allowed insurance carriers to create their own intake forms and attach them to policies).
 
