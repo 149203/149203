@@ -10,7 +10,7 @@ Improved site stability. Moved from Wordpress front-end to SSG, while retaining 
 
 Developed analytics dashboards with Amazon APIs, GCP (BigQuery, Google Data Studio, now Looker), and Next.js. Improved JIT metrics for 50 Amazon clients, boosting average client YOY growth by 30%.
 
-Led the development of a full site redesign with Astro and React. Zero downtime. Tripled conversions from 2.5% to 8%, increasing yearly revenue by ~600K.
+Led the development of a full site redesign with Astro and React. Zero downtime. Tripled conversions from 2.5% to 8%, increasing yearly revenue by 12%.
 
 ## William Hill (Caesars Entertainment) ~ Las Vegas, NV
 ### Engineering Manager, Growth
@@ -65,7 +65,7 @@ Programmed and sold Windows software: Fish Finder and Destroyer HUD. Top-rated p
 
 Developed and maintained crushthegame.com. Increased sales by 8x in 1 year (from previous referral strategy).
 
-### Poker Professional and Brand Advocate
+### Poker Professional and Brand Ambassador
 _June 2004 - Oct. 2006_
 
 Over $200k in tournament and cash winnings.
