@@ -20,7 +20,7 @@ Hired and managed a team to create a proprietary user tracking and analytics sys
 
 Our improved ad-to-first-deposit funnel allowed for revenue to stay up while avg customer spend went down during COVID. Our team was attributed with playing an important part in our acquisition by Caesars Entertainment for $4B.
 
-Created and deployed in-house A/B testing software. Employed a reverse proxy to display differing landing pages, collected data with GCP BigQuery, and used DBT to create ETL pipelines from multiple marketing sources.
+Created and deployed in-house A/B testing software. Employed a reverse proxy to display differing landing pages, collected data with GCP BigQuery, and used DBT to create ELT pipelines from multiple marketing sources.
 
 ## Punchcode (Tech Impact) ~ Las Vegas, NV
 ### Lead Instructor, Full Stack
